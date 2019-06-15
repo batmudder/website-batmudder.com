@@ -1,0 +1,72 @@
+baseURL = "https://batmudder.com/"
+languageCode = "en-us"
+title = "batmudder.com"
+theme = "beautifulhugo"
+
+[Params]
+logo = "images/bat.jpg"
+
+[Author]
+name = "Ganvar"
+website = "http://www.bat.org/char/ganvar"
+
+
+# Top Level
+[[menu.main]]
+  name = "Home"
+  url = ""
+  weight = 1
+
+##[[menu.main]]
+##  identifier = "guilds"
+##  name = "Guilds"
+##  weight = 2
+##
+##[[menu.main]]
+##  name = "Blog"
+##  url = "post/"
+##  weight = 3
+
+#### Nested under Guilds
+##[[menu.main]]
+##  parent = "guilds"
+##  name = "Civilized"
+##  url = "page/guilds/civilized/"
+##  weight = 1
+##
+##[[menu.main]]
+##  parent = "guilds"
+##  name = "Evil Religious"
+##  url = "page/guilds/erelig/"
+##  weight = 2
+##
+##
+##[[menu.main]]
+##  parent = "guilds"
+##  name = "Good Religious"
+##  url = "page/guilds/grelig/"
+##  weight = 3
+##
+##[[menu.main]]
+##  parent = "guilds"
+##  name = "Magical"
+##  url = "page/guilds/magical/"
+##  weight = 4
+##
+##[[menu.main]]
+##  parent = "guilds"
+##  name = "Nomad"
+##  url = "page/guilds/nomad/"
+##  weight = 5
+##
+##[[menu.main]]
+##  parent = "guilds"
+##  name = "Multi-background"
+##  url = "page/guilds/multi/"
+##  weight = 6
+##
+##[[menu.main]]
+##  parent = "guilds"
+##  name = "Racial Guilds"
+##  url = "page/guilds/racial/"
+##  weight = 7
