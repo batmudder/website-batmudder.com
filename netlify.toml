@@ -1,6 +1,7 @@
 [build]
-  command = "pelican -s publishconf.py"
-  publish = "public"
+  base = "site"
+  command = "hugo"
+  publish = "site/public"
 
 [[headers]]
   for = "/*"
