@@ -4,7 +4,7 @@ title = "batmudder.com"
 theme = "beautifulhugo"
 
 [Params]
-logo = "images/bat.jpg"
+logo = "img/bat.jpg"
 
 [Author]
 name = "Ganvar"
@@ -17,10 +17,10 @@ website = "http://www.bat.org/char/ganvar"
   url = ""
   weight = 1
 
-##[[menu.main]]
-##  identifier = "guilds"
-##  name = "Guilds"
-##  weight = 2
+[[menu.main]]
+  identifier = "guilds"
+  name = "Guilds"
+  weight = 2
 ##
 ##[[menu.main]]
 ##  name = "Blog"
@@ -28,11 +28,11 @@ website = "http://www.bat.org/char/ganvar"
 ##  weight = 3
 
 #### Nested under Guilds
-##[[menu.main]]
-##  parent = "guilds"
-##  name = "Civilized"
-##  url = "page/guilds/civilized/"
-##  weight = 1
+[[menu.main]]
+  parent = "guilds"
+  name = "Civilized"
+  url = "page/guilds/civilized/"
+  weight = 1
 ##
 ##[[menu.main]]
 ##  parent = "guilds"
