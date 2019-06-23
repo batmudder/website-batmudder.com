@@ -21,7 +21,7 @@
 
 Links:
 
-- [BatWiki - Civilized Background][BatWiki-CivBackground]
+- [BatWiki - Civilized Background][BatWiki-Background]
 - [To Navigation](#navigation)
 
 ## Alchemists
@@ -107,7 +107,7 @@ Links:
 
 ## Sabres
 
-Full name: The Order of the Shadow Sabres - Short name: Sabres - Levels 30
+Full name: The Order of the Shadow Sabres - Short name: Sabres - Levels: 30
 
 Links:
 
@@ -143,9 +143,9 @@ Links:
 
 [BatWiki-Aelena]: https://taikajuoma.ovh/wiki/Followers_of_the_Scorpion
 [BatWiki-Alchemists]: https://taikajuoma.ovh/wiki/Guild_of_Alchemy
+[BatWiki-Background]: https://taikajuoma.ovh/wiki/Civilized
 [BatWiki-Bards]: https://taikajuoma.ovh/wiki/The_Bards%27_guild
 [BatWiki-Cavaliers]: https://taikajuoma.ovh/wiki/The_Division_of_Cavaliers
-[BatWiki-CivBackground]: https://taikajuoma.ovh/wiki/Civilized
 [BatWiki-CivFighters]: https://taikajuoma.ovh/wiki/The_Civilized_Fighters
 [BatWiki-CivMages]: https://taikajuoma.ovh/wiki/The_Fellowship_of_Wizardry
 [BatWiki-Disciple]: https://taikajuoma.ovh/wiki/The_Disciples_of_Chaos
