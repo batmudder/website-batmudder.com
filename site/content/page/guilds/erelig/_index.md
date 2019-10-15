@@ -20,8 +20,6 @@ Links:
 - [BatWiki - Evil Religious Background][BatWiki-Background]
 - [To Navigation](#navigation)
 
-[BatWiki-Background]: https://taikajuoma.ovh/wiki/Evil_religious
-
 ## Disciple
 
 Full name: The Disciples of Chaos - Short name: Disciples - Levels: 10
