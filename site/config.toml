@@ -39,13 +39,13 @@ website = "http://www.bat.org/char/ganvar"
  name = "Evil Religious"
  url = "page/guilds/erelig/"
  weight = 2
-##
-##
-##[[menu.main]]
-##  parent = "guilds"
-##  name = "Good Religious"
-##  url = "page/guilds/grelig/"
-##  weight = 3
+
+
+[[menu.main]]
+  parent = "guilds"
+  name = "Good Religious"
+  url = "page/guilds/grelig/"
+  weight = 3
 ##
 ##[[menu.main]]
 ##  parent = "guilds"
