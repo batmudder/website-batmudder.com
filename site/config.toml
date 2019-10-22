@@ -58,13 +58,13 @@ website = "http://www.bat.org/char/ganvar"
  name = "Nomad"
  url = "page/guilds/nomad/"
  weight = 5
-##
-##[[menu.main]]
-##  parent = "guilds"
-##  name = "Multi-background"
-##  url = "page/guilds/multi/"
-##  weight = 6
-##
+
+[[menu.main]]
+  parent = "guilds"
+  name = "Any background"
+  url = "page/guilds/anybackground/"
+  weight = 6
+
 ##[[menu.main]]
 ##  parent = "guilds"
 ##  name = "Racial Guilds"
