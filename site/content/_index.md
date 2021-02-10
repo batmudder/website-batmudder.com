@@ -34,7 +34,7 @@ Send a message to [Ganvar](http://www.bat.org/char/ganvar) in BatMUD.
 [direct-wiki]: http://taikajuoma.ovh/wiki/Main_Page
 
 [moonlord]:  http://moonlord.batmudder.com
-[direct-moonlord]: http://www.anvianet.fi/moonlord/batmud/barbarian.html
+[direct-moonlord]: https://web.archive.org/web/20180826203131/http://www.anvianet.fi/moonlord/batmud/barbarian.html
 
 [dest]:  http://dest.batmudder.com
 [direct-dest]: http://taikajuoma.ovh/wiki/Desters
