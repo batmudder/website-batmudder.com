@@ -9,6 +9,10 @@
   - [Nergal](#nergal)
   - [Tzarakk](#tzarakk)
 - [Evil Priests](#evil-priests)
+- [Triad of Darkness](#triad-of-darkness-overview)
+  - [Triad](#triad)
+  - [Curate](#curate)
+  - [Seminary](#seminary)
 - [Reavers](#reavers)
 - [Spiders](#spiders)
 - [Tigers](#tigers)
@@ -65,13 +69,42 @@ Links:
 - [BatWiki - Slaves of the Beastmaster (Tzarakk)][BatWiki-Tzarakk]
 - [To Navigation](#navigation)
 
-## Evil Priests
+## Evil Priests - Legacy Guild
 
 Full name: Evil Priests - Short name: Evil Priests - Levels: 35
+
+**NOTE: This guild is being replaced by the Triad of Darkness guilds**
 
 Links:
 
 - [BatWiki - Evil Priests (Evil Priests)][BatWiki-EvilPriests]
+- [To Navigation](#navigation)
+
+## Triad of Darkness Overview
+
+The Triad of Darkness guilds are a set of guilds which will replace the legacy Evil Priests.
+
+- [To Navigation](#navigation)
+
+## Triad of Darkness
+
+Full name: Triad of Darkness - Short name: Triad - Levels: 10
+
+- [BatWiki - Triad of Darkness][BatWiki-Triad]
+- [To Navigation](#navigation)
+
+## Curate
+
+Full name: The Monastic School of Draen-Dalar - Short name: Curate - Levels: 10
+
+- [BatWiki - The Monastic School of Draen-Dalar][BatWiki-Curate]
+- [To Navigation](#navigation)
+
+## Seminary
+
+Full name: The Polytheistic Seminary - Short name: Seminary - Levels: 15
+
+- [BatWiki - The Polytheistic Seminary][BatWiki-Seminary]
 - [To Navigation](#navigation)
 
 ## Reavers
@@ -103,11 +136,14 @@ Links:
 
 [BatWiki-Aelena]: https://taikajuoma.ovh/wiki/Followers_of_the_Scorpion
 [BatWiki-Background]: https://taikajuoma.ovh/wiki/Evil_religious
+[BatWiki-Curate]: https://taikajuoma.ovh/wiki/The_Monastic_School_of_Draen-Dalar
 [BatWiki-Disciple]: https://taikajuoma.ovh/wiki/The_Disciples_of_Chaos
 [BatWiki-EvilPriests]: https://taikajuoma.ovh/wiki/Evil_Priests
 [BatWiki-Kharim]: https://taikajuoma.ovh/wiki/Legions_of_the_Blood_God
 [BatWiki-Nergal]: https://taikajuoma.ovh/wiki/Bearers_of_the_True_Rot
 [BatWiki-Reavers]: https://taikajuoma.ovh/wiki/The_Cult_of_Reavers
+[BatWiki-Seminary]: https://taikajuoma.ovh/wiki/The_Polytheistic_Seminary
 [BatWiki-Spiders]: https://taikajuoma.ovh/wiki/The_Blades_of_the_Spider_Queen
 [BatWiki-Tigers]: https://taikajuoma.ovh/wiki/The_Brotherhood_of_the_Black_Tiger
+[BatWiki-Triad]: https://taikajuoma.ovh/wiki/Triad_of_Darkness
 [BatWiki-Tzarakk]: https://taikajuoma.ovh/wiki/Slaves_of_the_Beastmaster
