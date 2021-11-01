@@ -7,7 +7,6 @@ Redirects from _sitename_.batmudder.com to the _DIRECT_ URL
 - [moonlord][moonlord] - [DIRECT][direct-moonlord] - weapon compare list, wizard list
 - [dest][dest] - [DIRECT][direct-dest] - dest/disintegrate monster list
 - [jeskko][jeskko] or [gmap][gmap] - [DIRECT][direct-jeskko] - BatMAP using Google Maps
-- [marvin][marvin] - [DIRECT][direct-marvin] - Material info, organ list, Aelena FAQ
 - [ggrtf][ggrtf] - [DIRECT][direct-ggrtf] - GgrTF scriptset for TinyFugue
 - [ggrmaps][ggrmaps] - [DIRECT][direct-ggrmaps] - Ggr's maps of the realm
 - [tazliel][tazliel] - [DIRECT][direct-tazliel] - Aelena, Kharim, Bard, Nergal and MORE!
@@ -42,9 +41,6 @@ Send a message to [Ganvar](http://www.bat.org/char/ganvar) in BatMUD.
 [jeskko]:  http://jeskko.batmudder.com
 [gmap]:  http://gmap.batmudder.com
 [direct-jeskko]: http://jeskko.pupunen.net/gmap2/
-
-[marvin]:  http://marvin.batmudder.com
-[direct-marvin]: https://batmarvin.000webhoostapp.com/
 
 [ggrtf]: http://ggrtf.batmudder.com
 [direct-ggrtf]: https://tnsp.org/~ccr/ggrtf/
