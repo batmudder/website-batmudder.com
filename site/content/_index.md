@@ -11,6 +11,7 @@ Redirects from _sitename_.batmudder.com to the _DIRECT_ URL
 - [ggrmaps][ggrmaps] - [DIRECT][direct-ggrmaps] - Ggr's maps of the realm
 - [tazliel][tazliel] - [DIRECT][direct-tazliel] - Aelena, Kharim, Bard, Nergal and MORE!
 - [hair][hair] - [DIRECT][direct-hair] - Arms Lore, Ship Calculator, EQ Sets, Scripts for TF & Batclient, plus more
+- [thelo][thelo] - [DIRECT][direct-thelo] - Thelo's Batmud diary
 
 ## Hosted DNS
 
@@ -56,6 +57,8 @@ Send a message to [Ganvar](http://www.bat.org/char/ganvar) in BatMUD.
 [hair]: http://hair.batmudder.com
 [direct-hair]: http://flaprider.dyndns.org/~hair/batmud/
 
+[thelo]: http://thelo.batmudder.com
+[direct-thelo]: https://thelo.stronglytyped.org/
 
 [hosteddns-nepos]: http://nepos.batmudder.com
 
