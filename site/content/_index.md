@@ -19,6 +19,7 @@ Redirects from _sitename_.batmudder.com to the _DIRECT_ URL
 
 - [Tarken's][hosted-tarken] - Tarken's ZMud trigs, formerly SSmud's trigs
 - [Nuane's][hosted-nuane] - Nuane's ZMud trigs and logs
+- [Dryad's][hosted-dryad] - Dryad's massive information site, a few page missing
 
 ## Contact
 
@@ -55,3 +56,4 @@ Send a message to [Ganvar](http://www.bat.org/char/ganvar) in BatMUD.
 
 [hosted-tarken]: http://tarken.batmudder.com
 [hosted-nuane]: http://nuane.batmudder.com
+[hosted-dryad]: http://dryad.batmudder.com
