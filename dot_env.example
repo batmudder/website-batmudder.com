@@ -1,0 +1,6 @@
+# Copy this file to .env then fill in the values
+
+local_directory=""  # output dir of the SSG
+remote_user=""      # user to ssh
+remote_server=""    # resolvable servername or ip address
+remote_directory="" # Enter full path
