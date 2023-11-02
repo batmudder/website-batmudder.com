@@ -1,3 +1,4 @@
 [submodule "site/themes/beautifulhugo"]
 	path = site/themes/beautifulhugo
 	url = https://github.com/sahensley/beautifulhugo.git
+    branch = master
