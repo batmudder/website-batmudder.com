@@ -1,18 +1,6 @@
-#########
-# macOS #
-#########
-
-# General
-.DS_Store
-
-# Thumbnails
-._*
-
-
 ####################
 # Project Specific #
 ####################
-output/
-build-output/
 public/
 *.pid
+.env
