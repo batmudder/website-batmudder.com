@@ -10,6 +10,7 @@ Redirects from _sitename_.batmudder.com to the _DIRECT_ URL
 - [ggrtf][ggrtf] - [DIRECT][direct-ggrtf] - GgrTF scriptset for TinyFugue
 - [ggrmaps][ggrmaps] - [DIRECT][direct-ggrmaps] - Ggr's maps of the realm
 - [tazliel][tazliel] - [DIRECT][direct-tazliel] - Aelena, Kharim, Bard, Nergal and MORE!
+- [hair][hair] - [DIRECT][direct-hair] - Arms Lore, Ship Calculator, EQ Sets, Scripts for TF & Batclient, plus more
 
 ## Hosted DNS
 
@@ -51,6 +52,10 @@ Send a message to [Ganvar](http://www.bat.org/char/ganvar) in BatMUD.
 
 [tazliel]: http://tazliel.batmudder.com
 [direct-tazliel]: https://sites.google.com/site/battazliel/
+
+[hair]: http://hair.batmudder.com
+[direct-hair]: http://flaprider.dyndns.org/~hair/batmud/
+
 
 [hosteddns-nepos]: http://nepos.batmudder.com
 
