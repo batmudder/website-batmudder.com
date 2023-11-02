@@ -10,7 +10,6 @@ logo = "img/bat.jpg"
 name = "Ganvar"
 website = "http://www.bat.org/char/ganvar"
 
-
 # Top Level
 [[menu.main]]
   name = "Home"
@@ -21,11 +20,6 @@ website = "http://www.bat.org/char/ganvar"
   identifier = "guilds"
   name = "Guilds"
   weight = 2
-##
-##[[menu.main]]
-##  name = "Blog"
-##  url = "post/"
-##  weight = 3
 
 #### Nested under Guilds
 [[menu.main]]
@@ -39,7 +33,6 @@ website = "http://www.bat.org/char/ganvar"
  name = "Evil Religious"
  url = "page/guilds/erelig/"
  weight = 2
-
 
 [[menu.main]]
   parent = "guilds"
